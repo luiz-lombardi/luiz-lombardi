@@ -2,7 +2,7 @@
 - 👀 I’m interested in any programming languages.
 - 🌱 I’m currently learning Python, Node.JS, Typescript, AWS, MongoDB.
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-lombardi&layout=compact)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-lombardi)
 
 <!---
 luiz-lombardi/luiz-lombardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
